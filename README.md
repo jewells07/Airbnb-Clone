@@ -1,6 +1,8 @@
 # Airbnb-Clone
 Airbnb-Clone is all about UI of Airbnb made in React Js. The styling for the application is done using Material-ui.
 
+### [Live Site](https://jewells07.github.io/Airbnb-Clone/)
+
 ## Setup
 Clone this project and Move to the base directory: ```cd Airbnb-Clone``` 
 
